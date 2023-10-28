@@ -1,2 +1,2 @@
-# BharatIntern
-Created a Portfolio Website made up of HTML,CSS 
+# Portfolio Website
+Created a Website made up of HTML and CSS 
